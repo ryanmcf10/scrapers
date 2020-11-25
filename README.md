@@ -4,7 +4,9 @@ Various scripts to pull PA candidate/election info down from the web and save th
 
 2. `montco.py` pulls down precinct-level election results (vote totals only) for the current election at https://electionresults-montcopa.hub.arcgis.com/
 
-3. `lancaster.py` pulls down election summary results from any of the elections listed at "http://vr.co.lancaster.pa.us/ElectionReturns/Election_Returns.html"
+3. `lancaster.py` pulls down election summary results from any of the elections listed at http://vr.co.lancaster.pa.us/ElectionReturns/Election_Returns.html
+
+### How to use
 
 Install requirements.
 
